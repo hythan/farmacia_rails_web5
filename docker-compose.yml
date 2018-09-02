@@ -1,0 +1,15 @@
+version: '3'
+services:
+  development:
+    build: .
+    command: /usr/bin/sudo /usr/sbin/sshd -D
+    ports:
+      - "1025:1025"
+      - "1080:1080"
+      - "2235:22"
+      - "3000:3000"
+      - "9292:9292"
+    volumes:
+      - .:/var/www/app
+      - .bundle:/usr/local/bundle
+
