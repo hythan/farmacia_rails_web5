@@ -1,17 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  age: 1
-  email: MyString
-  height: 1.5
   weight: 1.5
   gender: MyString
 
 two:
-  name: MyString
-  age: 1
-  email: MyString
-  height: 1.5
   weight: 1.5
   gender: MyString

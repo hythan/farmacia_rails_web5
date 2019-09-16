@@ -1,0 +1,50 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/var/www/app/app/models/client.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/var/www/app/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/var/www/app/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/var/www/app/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/var/www/app/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/var/www/app/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/var/www/app/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/var/www/app/app/helpers/application_helper.rb": [
+        0,
+        0
+      ]
+    },
+    "timestamp": 1568674443
+  }
+}
